@@ -50,6 +50,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[9.1.0, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

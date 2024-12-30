@@ -70,3 +70,12 @@ E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 E:\GeDay17\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+E:\GeDay17\MyConsoleApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Data.Odbc.dll
